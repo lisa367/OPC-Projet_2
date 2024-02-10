@@ -7,7 +7,7 @@ _`git init`_
 
  ## 2. Télécharger le répertoire distant
 Télécharger le code source depuis le répertoire distant :  
-_`git clone` [url-github](https://github.com/lisa367/Openclassrooms-Projets_python.git)_    
+_`git clone https://github.com/lisa367/OPC-Projet_2.git`_    
 
  ## 3. Activer l'environnement virtuel
 - Changer de répertoire : aller dans le dossier Projet 2
